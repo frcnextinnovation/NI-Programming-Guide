@@ -19,7 +19,7 @@ This guidebook contains:
 3. Commit message format.
 4. Process of developing new functions.
 
-![NEXT_Innovation](C:\Personal\NEXT_Innovation\Code\Project\NI-Programming-Guide\assets\Logo_Purple_Word_Transparent.png)
+![NEXT_Innovation](https://raw.githubusercontent.com/FRCNextInnovation/NI-Programming-Guide/main/assets/Logo_Purple_Word_Transparent.png?token=AIKEPBYFGFNNMVCGH3J7B5DBDD3SS)
 
 ## Table of Contents
 - [VS-Code Extensions](#VS-Code Extensions)
