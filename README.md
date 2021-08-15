@@ -22,9 +22,9 @@ This guidebook contains:
 ![NEXT_Innovation](https://raw.githubusercontent.com/FRCNextInnovation/NI-Programming-Guide/main/assets/Logo_Purple_Word_Transparent.png?token=AIKEPBYFGFNNMVCGH3J7B5DBDD3SS)
 
 ## Table of Contents
-- [VS-Code Extensions](#VS-Code Extensions)
-- [Code Style](#Code Style)
-  - [Source File](#Source File)
+- [VS-Code-Extensions](#VS-Code-Extensions)
+- [Code-Style](#Code-Style)
+  - [Source-File](#Source-File)
   - [Import](#Import)
   - [Variable](#Variable)
   - [Method](#Method)
@@ -38,5 +38,5 @@ This guidebook contains:
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-## Code Style
+## Code-Style
 
