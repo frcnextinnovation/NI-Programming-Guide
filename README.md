@@ -90,8 +90,8 @@ This guidebook contains:
 
   Bad:
 
-  ![Source-File-Class-Format](C:\Personal\NEXT_Innovation\Code\Project\NI-Programming-Guide\assets\Code\Source-File-Class-Format.png)
+  ![Source-File-Class-Format](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Source-File-Class-Format.png)
 
   Good: 
 
-  ![Source-File-Class-Format-Good](C:\Personal\NEXT_Innovation\Code\Project\NI-Programming-Guide\assets\Code\Source-File-Class-Format-Good.png)
+  ![Source-File-Class-Format-Good](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Source-File-Class-Format-Good.png)
