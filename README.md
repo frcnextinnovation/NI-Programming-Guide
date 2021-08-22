@@ -25,9 +25,9 @@ This guidebook contains:
 - [VS-Code-Extensions](#VS-Code-Extensions)
 - [Code-Style](#Code-Style)
   - [Source-File](#Source-File)
-  - [Class](#Class)
-  - [Variable](#Variable)
-  - [Method](#Method)
+  - [Formatting](#Format)
+  - [Naming](#Naming)
+  - [Programming-Practices](#Programming-Practices)
 
 ## 1. VS-Code-Extensions
 
@@ -41,10 +41,6 @@ This guidebook contains:
 ## 2. Code-Style
 
 ### 2.1 Source-File
-
-- Naming: UpperCamelCase
-
-  ![Source-File-UpperCamelCase](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Source-File-UpperCamelCase.png)
 
 - Structure: 
 
@@ -81,3 +77,21 @@ This guidebook contains:
   Good:
 
   <img src="https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Import-Good.png" alt="Import-Good" style="zoom:67%;" />
+
+#### 2.1.4 Class
+
+- The order of members don't have a single correct recipe to follow. What is important is that each class use some logical order. See some examples in [Programming-Practices](#Programming-Practices).
+
+- Overloads should never split.
+
+- Same kind of members should be put together and divided by a annotation in a specific style.
+
+- Example:
+
+  Bad:
+
+  ![Source-File-Class-Format](C:\Personal\NEXT_Innovation\Code\Project\NI-Programming-Guide\assets\Code\Source-File-Class-Format.png)
+
+  Good: 
+
+  ![Source-File-Class-Format-Good](C:\Personal\NEXT_Innovation\Code\Project\NI-Programming-Guide\assets\Code\Source-File-Class-Format-Good.png)
