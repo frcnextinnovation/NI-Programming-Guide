@@ -105,13 +105,13 @@ This guidebook contains:
 
 #### 2.3.1 Rules common to all identifiers
 
-
+Identifiers use only ASCII letters and digits.  Under the premise of readability of the names,  shorter is better.
 
 #### 2.3.2 Rules by identifier type
 
 ##### 2.3.2.1 Package names
 
-- All lowercase.
+- lowercase.
 
 - Example:
 
@@ -131,6 +131,38 @@ This guidebook contains:
 
   ![Class-Names](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Class-Names.png)
 
-  
+##### 2.3.2.3 Method names
 
-  
+- lowerCamelCase
+
+- Names of same kind of methods should start in same words, for example: A chassis subsystem may have several setters to control motors in different mode(Open-Loop, Velocity, Position), so their names should all start by "set".
+
+- Example:
+
+  ![Method-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Method-Name.png)
+
+  ##### 2.3.2.4 Constant names
+
+- UPPER_AND_UNDER_SCORE_CASE
+
+- Example:
+
+  ![Constant-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Constant-Name.png)
+
+##### 2.3.2.5 Non-constant field names
+
+- lowerCamelCase
+
+- Whatever the variables is public or private, don't add any prefixes or suffixes.
+
+- Example:
+
+  ![Non-Constant-Variables-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Non-Constant-Variables-Name.png)
+
+##### 2.3.2.6 Local variable names
+
+- lower_and_under_score_case
+
+- Example:
+
+  ![Parameter-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Parameter-Name.png)
