@@ -16,8 +16,6 @@ This guidebook contains:
 
 1. Good VS-Code extensions.
 2. The code style.
-3. Commit message format.
-4. Process of developing new functions.
 
 ![NEXT_Innovation](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Logo_Purple_Word_Transparent.png)
 
@@ -181,3 +179,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
   ![Parameter-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Parameter-Name.png)
 
 ### 2.4 Programming-Practices
+
+- Always use @Override.
+- Don't ignore to catch exceptions.
+- Be clear about the order of instantiate .
