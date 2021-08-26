@@ -22,12 +22,12 @@ This guidebook contains:
 ![NEXT_Innovation](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Logo_Purple_Word_Transparent.png)
 
 ## Table of Contents
-- [1. VS-Code-Extensions](#1. VS-Code-Extensions)
+- [1. VS-Code-Extensions](#1.-VS-Code-Extensions)
 - [2. Code-Style](#2. Code-Style)
-  - [2.1 Source-File](#2.1 Source-File)
-  - [2.2 Formatting](#2.2 Format)
-  - [2.3 Naming](#2.3 Naming)
-  - [2.4 Programming-Practices](#2.4 Programming-Practices)
+  - [2.1 Source-File](#2.1-Source-File)
+  - [2.2 Formatting](#2.2-Format)
+  - [2.3 Naming](#2.3-Naming)
+  - [2.4 Programming-Practices](#2.4-Programming-Practices)
 
 ## 1. VS-Code-Extensions
 
