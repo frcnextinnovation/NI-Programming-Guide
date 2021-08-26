@@ -22,7 +22,25 @@ This guidebook contains:
 ![NEXT_Innovation](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Logo_Purple_Word_Transparent.png)
 
 ## Table of Contents
-[TOC]
+- [NI Programming Guide](#ni-programming-guide)
+  * [1. VS-Code-Extensions](#1-vs-code-extensions)
+  * [2. Code-Style](#2-code-style)
+    + [2.1 Source-File](#21-source-file)
+      - [2.1.1 License or copyright information](#211-license-or-copyright-information)
+      - [2.1.2 Package statement](#212-package-statement)
+      - [2.1.3 Import statements](#213-import-statements)
+      - [2.1.4 Class](#214-class)
+    + [2.2 Formatting](#22-formatting)
+    + [2.3 Naming](#23-naming)
+      - [2.3.1 Rules common to all identifiers](#231-rules-common-to-all-identifiers)
+      - [2.3.2 Rules by identifier type](#232-rules-by-identifier-type)
+        * [2.3.2.1 Package names](#2321-package-names)
+        * [2.3.2.2 Class & Interface names](#2322-class---interface-names)
+        * [2.3.2.3 Method names](#2323-method-names)
+        * [2.3.2.4 Constant names](#2324-constant-names)
+        * [2.3.2.5 Non-constant field names](#2325-non-constant-field-names)
+        * [2.3.2.6 Local variable names](#2326-local-variable-names)
+    + [2.4 Programming-Practices](#24-programming-practices)
 
 ## 1. VS-Code-Extensions
 
