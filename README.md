@@ -95,3 +95,42 @@ This guidebook contains:
   Good: 
 
   ![Source-File-Class-Format-Good](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Source-File-Class-Format-Good.png)
+
+### 2.2 Formatting
+
+- Our format style follow the Google's format style of Java, you can check it here: [Google Java Style Guide - Formatting](https://google.github.io/styleguide/javaguide.html#s4-formatting).
+- In fact all formatting works can be done by the Extension -- [google-java-format](https://marketplace.visualstudio.com/items?itemName=ilkka.google-java-format).
+
+### 2.3 Naming
+
+#### 2.3.1 Rules common to all identifiers
+
+
+
+#### 2.3.2 Rules by identifier type
+
+##### 2.3.2.1 Package names
+
+- All lowercase.
+
+- Example:
+
+  ![Package-names](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Package-names.png)
+
+##### 2.3.2.2 Class & Interface names 
+
+- UpperCamelCase.
+
+- Names of concrete class don't have prefixes or suffixes.
+
+- Names of abstract class should have a "Base" prefix.
+
+- Names of interface should have a "I" prefix.
+
+- Example:
+
+  ![Class-Names](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Class-Names.png)
+
+  
+
+  
