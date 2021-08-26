@@ -39,6 +39,7 @@ This guidebook contains:
         * [2.3.2.5 Non-constant field names](#2325-non-constant-field-names)
         * [2.3.2.6 Local variable names](#2326-local-variable-names)
     + [2.4 Programming-Practices](#24-programming-practices)
+  * [Maintainers](#Maintainers)
 
 ## 1. VS-Code-Extensions
 
@@ -183,3 +184,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 - Always use @Override.
 - Don't ignore to catch exceptions.
 - Be clear about the order of instantiate .
+
+## Maintainers
+
+@Rocky_ @ljy1992
