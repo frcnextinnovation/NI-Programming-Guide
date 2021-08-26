@@ -22,14 +22,9 @@ This guidebook contains:
 ![NEXT_Innovation](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Logo_Purple_Word_Transparent.png)
 
 ## Table of Contents
-- [1. VS-Code-Extensions](#1.VS-Code-Extensions)
-- [2. Code-Style](#2.Code-Style)
-  - [2.1 Source-File](#2.1Source-File)
-  - [2.2 Formatting](#2.2Format)
-  - [2.3 Naming](#2.3Naming)
-  - [2.4 Programming-Practices](#2.4Programming-Practices)
+[TOC]
 
-## 1.VS-Code-Extensions
+## 1. VS-Code-Extensions
 
 - [WPILIB](https://marketplace.visualstudio.com/items?itemName=wpilibsuite.vscode-wpilib)
 - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
@@ -38,9 +33,9 @@ This guidebook contains:
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-## 2.Code-Style
+## 2. Code-Style
 
-### 2.1Source-File
+### 2.1 Source-File
 
 - Structure: 
 
@@ -96,12 +91,12 @@ This guidebook contains:
 
   ![Source-File-Class-Format-Good](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Source-File-Class-Format-Good.png)
 
-### 2.2Formatting
+### 2.2 Formatting
 
 - Our format style follow the Google's format style of Java, you can check it here: [Google Java Style Guide - Formatting](https://google.github.io/styleguide/javaguide.html#s4-formatting).
 - In fact all formatting works can be done by the Extension -- [google-java-format](https://marketplace.visualstudio.com/items?itemName=ilkka.google-java-format).
 
-### 2.3Naming
+### 2.3 Naming
 
 #### 2.3.1 Rules common to all identifiers
 
@@ -167,4 +162,4 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
   ![Parameter-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Parameter-Name.png)
 
-### 2.4Programming-Practices
+### 2.4 Programming-Practices
