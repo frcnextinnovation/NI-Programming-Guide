@@ -2,11 +2,11 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-The programming guidebook of code development in Next-Innovation(NI).
+The **programming guidebook** for development in **Next-Innovation(NI)**.
 
 The guidebook is designed by the rules:
 
-- Speed-only is not everything,  both the speed and readability are.
+- Speed-only is not everything,  both the **speed and readability** are.
 - Under the premise of speed , readability is everything.
 - Under the premise of readability,  shorter is better.
 
@@ -14,7 +14,7 @@ Every developer should follow the rules when programming and pushing the code.
 
 This guidebook contains:
 
-1. Good VS-Code extensions.
+1. Suggested VS-Code extensions.
 2. The code style.
 
 ![NEXT_Innovation](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Logo_Purple_Word_Transparent.png)
@@ -110,7 +110,7 @@ This guidebook contains:
 
 ### 2.2 Formatting
 
-- Our format style follow the Google's format style of Java, you can check it here: [Google Java Style Guide - Formatting](https://google.github.io/styleguide/javaguide.html#s4-formatting).
+- NI's format style follow the Google's format style of Java, you can check it here: [Google Java Style Guide - Formatting](https://google.github.io/styleguide/javaguide.html#s4-formatting).
 - In fact all formatting works can be done by the Extension -- [google-java-format](https://marketplace.visualstudio.com/items?itemName=ilkka.google-java-format).
 
 ### 2.3 Naming
@@ -123,7 +123,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
 ##### 2.3.2.1 Package names
 
-- lowercase.
+- `lowercase`
 
 - Example:
 
@@ -131,7 +131,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
 ##### 2.3.2.2 Class & Interface names 
 
-- UpperCamelCase.
+- `UpperCamelCase`
 
 - Names of concrete class don't have prefixes or suffixes.
 
@@ -145,7 +145,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
 ##### 2.3.2.3 Method names
 
-- lowerCamelCase
+- `lowerCamelCase`
 
 - Names of same kind of methods should start in same words, for example: A chassis subsystem may have several setters to control motors in different mode(Open-Loop, Velocity, Position), so their names should all start by "set".
 
@@ -155,7 +155,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
   ##### 2.3.2.4 Constant names
 
-- UPPER_AND_UNDER_SCORE_CASE
+- `UPPER_AND_UNDER_SCORE_CASE`
 
 - Example:
 
@@ -163,7 +163,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
 ##### 2.3.2.5 Non-constant field names
 
-- lowerCamelCase
+- `lowerCamelCase`
 
 - Whatever the variables is public or private, don't add any prefixes or suffixes.
 
@@ -173,7 +173,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
 ##### 2.3.2.6 Local variable names
 
-- lower_and_under_score_case
+- `lower_and_under_score_case`
 
 - Example:
 
@@ -181,7 +181,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
 ### 2.4 Programming-Practices
 
-- Always use @Override.
+- Always use `@Override`.
 - Don't ignore to catch exceptions.
 - Be clear about the order of instantiate .
 
