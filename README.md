@@ -2,15 +2,15 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-The **programming guidebook** for development in **Next-Innovation(NI)**.
+This **programming guidebook** is used for development in **Next-Innovation(NI)**.
 
-The guidebook is designed by the rules:
+The guidebook is designed by the rules below:
 
-- Speed-only is not everything,  both the **speed and readability** are.
-- Under the premise of speed , readability is everything.
-- Under the premise of readability,  shorter is better.
+- Do not ignore readability in order to blindly pursue the speed of code..
+- On the premise of speed , readability is everything.
+- On the premise of readability,  shorter is better.
 
-Every developer should follow the rules when programming and pushing the code. 
+Every developer should follow the rules while programming or pushing the code. 
 
 This guidebook contains:
 
@@ -40,6 +40,7 @@ This guidebook contains:
         * [2.3.2.6 Local variable names](#2326-local-variable-names)
     + [2.4 Programming-Practices](#24-programming-practices)
   * [Maintainers](#Maintainers)
+  * [Contributors](#Contributors)
 
 ## 1. VS-Code-Extensions
 
@@ -188,3 +189,9 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 ## Maintainers
 
 [@Rocky_](https://github.com/RockyXRQ) [@ljy1992](https://github.com/ljy1992)
+
+## Contributors
+
+:heart: This project exists thanks to all the people who contribute. :heart:
+
+[@Rocky_](https://github.com/RockyXRQ) [@ljy1992](https://github.com/ljy1992) [@Yuki]()
