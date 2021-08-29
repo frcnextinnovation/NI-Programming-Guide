@@ -1,6 +1,6 @@
 # NI Programming Guide
 
-[![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=flat)]()[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat)](https://github.com/RichardLitt/standard-readme)[![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=flat)]()
+[![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=flat)]() [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat)](https://github.com/RichardLitt/standard-readme) [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=flat)]()
 
 This **programming guidebook** is used for development in **Next-Innovation(NI)**.
 
@@ -12,7 +12,7 @@ The guidebook is designed by the rules below:
 
 Every developer should follow the rules while programming or pushing the code. 
 
-This guidebook contains:
+This guidebook contains: 
 
 1. Suggested VS-Code extensions.
 2. The code style.
