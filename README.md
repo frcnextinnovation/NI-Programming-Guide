@@ -1,6 +1,6 @@
 # NI Programming Guide
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=flat)]()[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat)](https://github.com/RichardLitt/standard-readme)[![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=flat)]()
 
 This **programming guidebook** is used for development in **Next-Innovation(NI)**.
 
