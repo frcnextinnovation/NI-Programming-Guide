@@ -1,6 +1,6 @@
 # NI Programming Guide
 
-[![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=flat)]() [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat)](https://github.com/RichardLitt/standard-readme) [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=flat)]()
+[![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=flat)](https://github.com/FRCNextInnovation) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat)](https://github.com/RichardLitt/standard-readme) [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=flat)]()
 
 This **programming guidebook** is used for development in **Next-Innovation(NI)**.
 
@@ -69,7 +69,7 @@ This guidebook contains:
 #### 2.1.2 Package statement
 
 - No line-wrapped.
-- The package statement should be divided from Import statements by a blank line.
+- The package statement should be divided from import statements by a blank line.
 
 #### 2.1.3 Import statements
 
@@ -77,9 +77,9 @@ This guidebook contains:
 
 - No line-wrapped.
 
-- Import from same package should be put together.
+- Imports from the same package should be put together.
 
-- Import from different package should be divided by a single blank line.
+- Imports from different packages should be separated by a blank line..
 
 - Example:
 
@@ -93,11 +93,11 @@ This guidebook contains:
 
 #### 2.1.4 Class
 
-- The order of members don't have a single correct recipe to follow. What is important is that each class use some logical order. See some examples in [Programming-Practices](#Programming-Practices).
+- The order of members does not need to follow specific strict rules. What is important is that each class uses some logical order. See some examples in [Programming-Practices](#Programming-Practices).
 
-- Overloads should never split.
+- Overloads should never be split.
 
-- Same kind of members should be put together and divided by a annotation in a specific style.
+- Members of the same type should be put in the same block, and different blocks should be separated by annotation of a specific style.
 
 - Example:
 
@@ -111,14 +111,14 @@ This guidebook contains:
 
 ### 2.2 Formatting
 
-- NI's format style follow the Google's format style of Java, you can check it here: [Google Java Style Guide - Formatting](https://google.github.io/styleguide/javaguide.html#s4-formatting).
-- In fact all formatting works can be done by the Extension -- [google-java-format](https://marketplace.visualstudio.com/items?itemName=ilkka.google-java-format).
+- NI's format style is following the Google's format style of Java. You can click here for more information: [Google Java Style Guide - Formatting](https://google.github.io/styleguide/javaguide.html#s4-formatting).
+- In fact, all formatting can be done by the extension -- [google-java-format](https://marketplace.visualstudio.com/items?itemName=ilkka.google-java-format).
 
 ### 2.3 Naming
 
 #### 2.3.1 Rules common to all identifiers
 
-Identifiers use only ASCII letters and digits.  Under the premise of readability of the names,  shorter is better.
+Identifiers use ASCII letters and digits only.  On the premise of name readability,  shorter is better.
 
 #### 2.3.2 Rules by identifier type
 
@@ -134,11 +134,11 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
 - `UpperCamelCase`
 
-- Names of concrete class don't have prefixes or suffixes.
+- The name of a concrete class cannot have a prefix or suffix.
 
-- Names of abstract class should have a "Base" prefix.
+- The name of an abstract class should have a prefix of "base"..
 
-- Names of interface should have a "I" prefix.
+- The name of the interface should have a prefix of "I".
 
 - Example:
 
@@ -148,7 +148,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
 - `lowerCamelCase`
 
-- Names of same kind of methods should start in same words, for example: A chassis subsystem may have several setters to control motors in different mode(Open-Loop, Velocity, Position), so their names should all start by "set".
+- The name of the same type of method should start with the same word. For example, the subsystem of the chassis may have multiple setters to control the motors in different modes (Open-Loop, Velocity, Position), so their names should start with "set".
 
 - Example:
 
@@ -166,7 +166,7 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 
 - `lowerCamelCase`
 
-- Whatever the variables is public or private, don't add any prefixes or suffixes.
+- Whether the variable is public or private, do not add any prefix or suffix to it..
 
 - Example:
 
@@ -183,8 +183,9 @@ Identifiers use only ASCII letters and digits.  Under the premise of readability
 ### 2.4 Programming-Practices
 
 - Always use `@Override`.
-- Don't ignore to catch exceptions.
-- Be clear about the order of instantiate .
+- Always use `synchronized ` for all methods about IO.
+- Do not ignore catching exceptions.
+- Always specify the order of instantiation.
 
 ## Maintainers
 
