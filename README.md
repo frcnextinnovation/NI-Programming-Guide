@@ -183,7 +183,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 ### 2.4 Programming-Practices
 
 - Always use `@Override`.
-- Always use `synchronized ` for all methods about IO.
+- Always use `synchronized` for all methods about IO.
 - Do not ignore catching exceptions.
 - Always specify the order of instantiation.
 
@@ -195,4 +195,4 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 :heart: This project exists thanks to all the people who contribute. :heart:
 
-[@Rocky_](https://github.com/RockyXRQ) [@ljy1992](https://github.com/ljy1992) [@Yuki]()
+[@Rocky_](https://github.com/RockyXRQ) [@ljy1992](https://github.com/ljy1992) [@yukikisss](https://github.com/yukikisss)
