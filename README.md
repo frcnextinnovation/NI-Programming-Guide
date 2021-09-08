@@ -6,7 +6,7 @@ This **programming guidebook** is used for development in **Next-Innovation(NI)*
 
 The guidebook is designed by the rules below:
 
-- Do not ignore readability in order to blindly pursue the speed of code..
+- Do not ignore readability in order to blindly pursue the speed of code.
 - On the premise of speed , readability is everything.
 - On the premise of readability,  shorter is better.
 
@@ -58,9 +58,9 @@ This guidebook contains:
 - Structure: 
 
   1. License or copyright information(if present).
-  2. Package statement.
-  3. [Import](#Import) statements.
-  4. [Class](#Class) statements.
+  2. [Package](#212-package-statement) statement.
+  3. [Import](#213-import-statements) statements.
+  4. [Class](#214-class) statements.
 
 #### 2.1.1 License or copyright information
 
@@ -79,7 +79,7 @@ This guidebook contains:
 
 - Imports from the same package should be put together.
 
-- Imports from different packages should be separated by a blank line..
+- Imports from different packages should be separated by a blank line.
 
 - Example:
 
@@ -136,7 +136,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 - The name of a concrete class cannot have a prefix or suffix.
 
-- The name of an abstract class should have a prefix of "base"..
+- The name of an abstract class should have a prefix of "base".
 
 - The name of the interface should have a prefix of "I".
 
@@ -166,7 +166,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 - `lowerCamelCase`
 
-- Whether the variable is public or private, do not add any prefix or suffix to it..
+- Whether the variable is public or private, do not add any prefix or suffix to it.
 
 - Example:
 
