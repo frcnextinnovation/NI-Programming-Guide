@@ -195,4 +195,6 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
 :heart: 诚挚感谢每一位为本篇文档做出贡献的朋友！ :heart:
 
-[@Rocky_](https://github.com/RockyXRQ) [@ljy1992](https://github.com/ljy1992) [@yukikisss](https://github.com/yukikisss)
+[@ljy1992](https://github.com/ljy1992) [@Rocky_](https://github.com/RockyXRQ) [@yukikisss](https://github.com/yukikisss)
+
+<img src="./assets/contributors.png" width="890">

@@ -195,4 +195,6 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 :heart: This project exists thanks to all the people who contribute. :heart:
 
-[@Rocky_](https://github.com/RockyXRQ) [@ljy1992](https://github.com/ljy1992) [@yukikisss](https://github.com/yukikisss)
+[@ljy1992](https://github.com/ljy1992) [@Rocky_](https://github.com/RockyXRQ) [@yukikisss](https://github.com/yukikisss)
+
+<img src="./assets/contributors.png" width="890">
