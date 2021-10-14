@@ -1,8 +1,10 @@
+[English](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/README.md) | 中文简体
+
 # NI 编程指南
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=flat)](https://github.com/FRCNextInnovation) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat)](https://github.com/RichardLitt/standard-readme) [![Lang](https://img.shields.io/badge/Lang-zh--CN-Green?style=flat)]()
 
-本篇文档是一份用于**Next-Innovation(NI)**内部的程序开发指南。
+本篇文档是一份用于 **Next-Innovation(NI)** 内部的程序开发指南。
 
 本篇指南基于以下原则编写:
 
