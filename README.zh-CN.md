@@ -17,7 +17,7 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 1. 推荐的VS-Code插件。
 2. 代码风格规范。
 
-![NEXT_Innovation](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Logo_Purple_Word_Transparent.png)
+<img src="./assets/Logo_Purple_Word_Transparent.png" alt="NEXT_Innovation" style="zoom:80%;" />
 
 ## 目录
 - [NI 编程指南](#ni-编程指南)
@@ -85,15 +85,15 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
   反例:
 
-  <img src="https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Import-Bad.png" alt="Import-Bad" style="zoom:67%;" />
+  <img src="./assets/Code/Import-Bad.png" alt="Import-Bad" style="zoom:67%;" />
 
   正例:
 
-  <img src="https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Import-Good.png" alt="Import-Good" style="zoom:67%;" />
+  <img src="./assets/Code/Import-Good.png" alt="Import-Good" style="zoom:67%;" />
 
 #### 2.1.4 Class
 
-- 类成员的编写顺序并没有严格的标准，只要遵循一个相对合理的有逻辑顺序就可以了. 你可以在 [Programming-Practices](#Programming-Practices) 查看一些示例。
+- 类成员的编写顺序并没有严格的标准，只要遵循一个相对合理的有逻辑顺序就可以了。
 
 - 相同方法的重载应当被放置在一起。
 
@@ -103,11 +103,11 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
   反例:
 
-  ![Source-File-Class-Format](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Source-File-Class-Format.png)
+  <img src="./assets/Code/Source-File-Class-Format.png" alt="Source-File-Class-Format"/>
 
   正例: 
 
-  ![Source-File-Class-Format-Good](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Source-File-Class-Format-Good.png)
+  <img src="./assets/Code/Source-File-Class-Format-Good.png" alt="Source-File-Class-Format-Good"/>
 
 ### 2.2 代码格式
 
@@ -128,7 +128,7 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
 - 示例:
 
-  ![Package-names](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Package-names.png)
+  <img src="./assets/Code/Package-names.png" alt="Package-names"/>
 
 ##### 2.3.2.2 Class & Interface 命名 
 
@@ -142,7 +142,7 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
 - 示例:
 
-  ![Class-Names](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Class-Names.png)
+  <img src="./assets/Code/Class-Names.png" alt="Class-Names" style="zoom:50%;" />
 
 ##### 2.3.2.3 Method 命名
 
@@ -152,7 +152,7 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
 - 示例:
 
-  ![Method-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Method-Name.png)
+  <img src="./assets/Code/Method-Name.png" alt="Method-Name"/>
 
   ##### 2.3.2.4 Constant 命名
 
@@ -160,7 +160,7 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
 - 示例:
 
-  ![Constant-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Constant-Name.png)
+  <img src="./assets/Code/Constant-Name.png" alt="Constant-Name"/>
 
 ##### 2.3.2.5 Non-constant 变量命名
 
@@ -170,7 +170,7 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
 - 示例:
 
-  ![Non-Constant-Variables-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Non-Constant-Variables-Name.png)
+  <img src="./assets/Code/Non-Constant-Variables-Name.png" alt="Non-Constant-Variables-Name"/>
 
 ##### 2.3.2.6 局部变量命名
 
@@ -178,7 +178,7 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
 - 示例:
 
-  ![Parameter-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Parameter-Name.png)
+  <img src="./assets/Code/Parameter-Name.png" alt="Parameter-Name"/>
 
 ### 2.4 最佳实践
 
@@ -197,4 +197,4 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
 [@ljy1992](https://github.com/ljy1992) [@Rocky_](https://github.com/RockyXRQ) [@yukikisss](https://github.com/yukikisss)
 
-<img src="./assets/contributors.png" width="890">
+<img src="./assets/contributors.png" style="zoom:60%;">

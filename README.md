@@ -17,7 +17,7 @@ This guidebook contains:
 1. Suggested VS-Code extensions.
 2. The code style.
 
-![NEXT_Innovation](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Logo_Purple_Word_Transparent.png)
+<img src="./assets/Logo_Purple_Word_Transparent.png" alt="NEXT_Innovation" style="zoom:80%;" />
 
 ## Table of Contents
 - [NI Programming Guide](#ni-programming-guide)
@@ -85,15 +85,15 @@ This guidebook contains:
 
   Bad:
 
-  <img src="https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Import-Bad.png" alt="Import-Bad" style="zoom:67%;" />
+  <img src="./assets/Code/Import-Bad.png" alt="Import-Bad" style="zoom:67%;" />
 
   Good:
 
-  <img src="https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Import-Good.png" alt="Import-Good" style="zoom:67%;" />
+  <img src="./assets/Code/Import-Good.png" alt="Import-Good" style="zoom:67%;" />
 
 #### 2.1.4 Class
 
-- The order of members does not need to follow specific strict rules. What is important is that each class uses some logical order. See some examples in [Programming-Practices](#Programming-Practices).
+- The order of members does not need to follow specific strict rules. What is important is that each class uses some logical order. 
 
 - Overloads should never be split.
 
@@ -103,11 +103,11 @@ This guidebook contains:
 
   Bad:
 
-  ![Source-File-Class-Format](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Source-File-Class-Format.png)
+  <img src="./assets/Code/Source-File-Class-Format.png" alt="Source-File-Class-Format"/>
 
   Good: 
 
-  ![Source-File-Class-Format-Good](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Source-File-Class-Format-Good.png)
+  <img src="./assets/Code/Source-File-Class-Format-Good.png" alt="Source-File-Class-Format-Good"/>
 
 ### 2.2 Formatting
 
@@ -128,7 +128,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 - Example:
 
-  ![Package-names](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Package-names.png)
+  <img src="./assets/Code/Package-names.png" alt="Package-names"/>
 
 ##### 2.3.2.2 Class & Interface names 
 
@@ -142,7 +142,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 - Example:
 
-  ![Class-Names](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Class-Names.png)
+  <img src="./assets/Code/Class-Names.png" alt="Class-Names" style="zoom:50%;" />
 
 ##### 2.3.2.3 Method names
 
@@ -152,7 +152,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 - Example:
 
-  ![Method-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Method-Name.png)
+  <img src="./assets/Code/Method-Name.png" alt="Method-Name"/>
 
   ##### 2.3.2.4 Constant names
 
@@ -160,7 +160,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 - Example:
 
-  ![Constant-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Constant-Name.png)
+  <img src="./assets/Code/Constant-Name.png" alt="Constant-Name"/>
 
 ##### 2.3.2.5 Non-constant field names
 
@@ -170,7 +170,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 - Example:
 
-  ![Non-Constant-Variables-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Non-Constant-Variables-Name.png)
+  <img src="./assets/Code/Non-Constant-Variables-Name.png" alt="Non-Constant-Variables-Name"/>
 
 ##### 2.3.2.6 Local variable names
 
@@ -178,7 +178,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 - Example:
 
-  ![Parameter-Name](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/Code/Parameter-Name.png)
+  <img src="./assets/Code/Parameter-Name.png" alt="Parameter-Name"/>
 
 ### 2.4 Programming-Practices
 
@@ -197,4 +197,4 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 [@ljy1992](https://github.com/ljy1992) [@Rocky_](https://github.com/RockyXRQ) [@yukikisss](https://github.com/yukikisss)
 
-<img src="./assets/contributors.png" width="890">
+<img src="./assets/contributors.png" alt="contributors" style="zoom:60%;">
