@@ -52,8 +52,10 @@ This guidebook contains:
 - [google-java-format](https://marketplace.visualstudio.com/items?itemName=ilkka.google-java-format)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Better-Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments&ssr=false)
 
 ## 2. Code-Style
+> Note: To have a better support for 3rd lib, only file names is necessary to be formatted.
 
 ### 2.1 Source-File
 
@@ -184,6 +186,7 @@ Identifiers use ASCII letters and digits only.  On the premise of name readabili
 
 ### 2.4 Programming-Practices
 
+- Don't add unnecessary getter or setter.
 - Always use `@Override`.
 - Always use `synchronized` for all methods about IO.
 - Do not ignore catching exceptions.

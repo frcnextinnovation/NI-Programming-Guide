@@ -52,8 +52,11 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 - [google-java-format](https://marketplace.visualstudio.com/items?itemName=ilkka.google-java-format)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Better-Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments&ssr=false)
 
 ## 2. 代码风格规范
+
+> 注意: 为了使库程序能更好的适配第三方程序库，对于第三方程序库仅对文件命名规范有要求。
 
 ### 2.1 源文件
 
@@ -184,6 +187,7 @@ NI的每一位程序开发者都应当在工作中遵循以上约定。
 
 ### 2.4 最佳实践
 
+- 不要增加不必要的 getter 或 setter。
 - 能使用 `@Override` 请一定要用。
 - 为所有与IO相关的方法使用 `synchronized` 关键字。
 - 不要忽略对异常抛出的处理。
